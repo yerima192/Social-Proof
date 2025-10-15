@@ -42,7 +42,6 @@ header {
 .section2 {
     width: 67%;
     height: 100%;
-    flex-direction: column;
 }
 
 .prix span {

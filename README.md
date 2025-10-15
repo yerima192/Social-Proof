@@ -41,3 +41,4 @@ Il s’agit d’une section moderne, élégante et entièrement responsive, pré
 Ce projet m'a beaucoup appris surtout a approndir mes connaissances au niveau de la responsivité d'un site;
 A bien structuré mon HTML et faire un Disign propre et responsive.
 
+![mon-projet](./social.png)
